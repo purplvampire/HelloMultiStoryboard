@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    // 原始碼寫英文註解
+    // Git敘述不強制用英文
 
     // 指定Storyboard並跳轉到從程式生成的VC
     @IBAction func go3BtnPressed(_ sender: Any) {
